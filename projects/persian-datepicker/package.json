@@ -1,5 +1,16 @@
 {
   "name": "ngx-persian-datepicker",
+  "author": {
+    "name": "Ebrahim Tahernejad",
+    "email": "ebrahimtahernejad@gmail.com",
+    "url": "https://github.com/AOTOA/"
+  },
+  "homepage": "https://github.com/AOTOA/ngx-persian-datepicker",
+  "repository": {
+    "type": "git",
+    "directory": "projects/persian-datepicker",
+    "url": "https://github.com/AOTOA/ngx-persian-datepicker.git"
+  },
   "version": "0.1.0",
   "peerDependencies": {
     "@angular/common": ">=8.2.3",
