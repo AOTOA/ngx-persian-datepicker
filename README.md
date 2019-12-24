@@ -8,7 +8,7 @@ you should have @angular/material, @angular/cdk and moment-jalaali installed to 
 
 ### Install
 ```bash
-npm i --save @angular-persian/material-date-picker
+npm i --save ngx-persian-datepicker
 ```
 ### Add Module
 ```typescript
