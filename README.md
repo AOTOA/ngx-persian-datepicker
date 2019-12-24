@@ -3,7 +3,7 @@
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 ## Angular persian datepicker with awesome features!
-# Supporting Angular 8
+### Supporting Angular 8
 
 source (I just updated it for angular 8):
 https://github.com/kordeviant/mat-datepciker-module-persian#readme
