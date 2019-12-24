@@ -17,7 +17,7 @@ npm i --save ngx-persian-datepicker
 ```
 ### Add Module
 ```typescript
-import {MatDatepickerModulePersian} from '@angular-persian/material-date-picker';
+import {MatDatepickerModulePersian} from 'ngx-persian-datepicker';
 ```
 
 ### Example
